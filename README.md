@@ -8,7 +8,7 @@ This should automate some of the documentation for bicep modules and deployments
 Run the following command to build the utility:
 ```
 make build
-'''
+```
 
 Run the utility as follows:
 ```
